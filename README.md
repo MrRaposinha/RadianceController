@@ -48,7 +48,7 @@
 - **BepInEx**: Ensure BepInEx is installed in your ULTRAKILL directory to use this mod.
 
 ### Steps to Install
-1. Download the latest release of **Radiance Controller** from the [Releases](https://github.com/YourRepo/RadianceController/releases) page.
+1. Download the latest release of **Radiance Controller** from the [Releases](https://github.com/MrRaposinha/RadianceController/releases) page.
 2. Place the `RadianceController.dll` file in your `BepInEx/plugins` folder.
    - If the `plugins` folder doesn’t exist, create it manually.
 3. Launch ULTRAKILL and configure the mod via the in-game menu.
@@ -71,7 +71,7 @@ If the mod isn’t working:
 2. Verify the mod file is in the correct `BepInEx/plugins` directory.
 3. Check the logs (`BepInEx/LogOutput.log`) for errors.
 
-For additional support, visit the [Issues](https://github.com/YourRepo/RadianceController/issues) section.
+For additional support, visit the [Issues](https://github.com/MrRaposinha/RadianceController/issues) section.
 
 ---
 
