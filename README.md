@@ -20,13 +20,6 @@
 
 ---
 
-## 🚧 Limitations
-
-- **Aura Persistence**: 
-  - Enemies that have been excluded from the Radiance effect via the configuration menu will still retain their visual Radiance aura. However, this is purely aesthetic, and the excluded enemies will not have modified attributes.
-
----
-
 ## 🚀 How It Works
 
 1. **Random Attribute Scaling**:
